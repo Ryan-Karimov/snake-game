@@ -17,7 +17,7 @@ This is a simple implementation of the classic Snake game in Python using the Py
 4. Run the Game: Open your terminal, navigate to the repository's directory, and run the following command:
 
    ```bash
-   python snake_game.py
+   python main.py
    ```
 
 5. Gameplay:
